@@ -1,4 +1,7 @@
 
+## Main Contributors of this fork.
+
+Sami Rapakko, Lauri Haverinen, Emre Arkan and Vesa Similä.
 
 
 ## Main Contributors and creators
